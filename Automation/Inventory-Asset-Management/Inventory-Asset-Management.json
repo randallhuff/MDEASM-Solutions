@@ -169,7 +169,7 @@
                                         },
                                         "method": "PUT",
                                         "queries": {
-                                            "api-version": "@parameters('api-version')"
+                                            "api-version": "2022-04-01-preview"
                                         },
                                         "retryPolicy": {
                                             "count": 10,
